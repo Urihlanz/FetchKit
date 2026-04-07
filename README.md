@@ -75,7 +75,7 @@ function UserProfile({ id }: { id: string }) {
 ## Install packages
 
 ```bash
-  npm install
+npm install
 ```
 
 ### Build production
@@ -101,7 +101,8 @@ npm run dev
 #### Technology stack
 
 - TypeScript
-- Raqct
+- Rea
+- ct
 - Jest
 - Vite
 
