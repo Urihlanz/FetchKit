@@ -101,8 +101,7 @@ npm run dev
 #### Technology stack
 
 - TypeScript
-- Rea
-- ct
+- React
 - Jest
 - Vite
 
